@@ -1,4 +1,4 @@
-If you need a classifier trained, but don't want to bother with the lengthy configuration, these scripts configure a pre-trained version of the alexnet CNN performs well on many vision problems, and converges particularily quickly on academic figures.
+If you need a classifier trained, but don't want to bother with the lengthy net configuration, these scripts configure a pre-trained version of the alexnet CNN performs well on many vision problems, and converges particularily quickly on academic figures. *Note that caffe and dependencies must be installed prior scripts if ami not used.*
 
 The script is built to run on the following AMI:
 
