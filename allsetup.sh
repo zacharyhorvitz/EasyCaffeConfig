@@ -1,3 +1,4 @@
+#!/bin/sh
 #This script should configure the net for training. This needs to be ran sudo from caffe root directory
 
 
