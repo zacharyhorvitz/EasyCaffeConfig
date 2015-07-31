@@ -1,3 +1,4 @@
+#!/bin/sh
 #This script starts the net with weights learned through imagenet training
 
 ./build/tools/caffe train \
